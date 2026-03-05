@@ -10,11 +10,6 @@ Fully responsive personal portfolio website for all devices, built with HTML, CS
 - Sections: About, Resume, Projects, Contact
 - Modern UI with smooth transitions
 
-## Demo
-
-![Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
-
 ## Getting Started
 
 Clone the repository:
@@ -45,11 +40,6 @@ Open `index.html` in your browser to view the portfolio.
 
 Email: varnik103@gmail.com
 Location: Delhi, India
-
-## Demo
-
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
 
 ## Prerequisites
 
